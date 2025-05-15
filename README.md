@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning about C#, Java, JavaScript
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on InVision
-- 📫 How to reach me ...
+- 📫 How to reach me (jpbm_9@hotmail.com)
   - 😄 Pronouns: Juan or Pedro
 - ⚡ Fun fact: ...
 
