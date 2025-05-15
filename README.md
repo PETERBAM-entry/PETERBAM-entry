@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on InVision
 - 📫 How to reach me (jpbm_9@hotmail.com)
-  - 😄 Pronouns: Juan or Pedro
+- 😄 Pronouns: Juan or Pedro
 - ⚡ Fun fact: ...
 
 <!---
